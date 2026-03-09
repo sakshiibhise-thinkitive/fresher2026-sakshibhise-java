@@ -1,3 +1,5 @@
+package springboot_project.project_1;
+
 import org.springframework.stereotype.Component;
 
 @Component

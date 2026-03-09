@@ -1,3 +1,5 @@
+package springboot_project.project_1;
+
 public class Student {
 
     private int id;
